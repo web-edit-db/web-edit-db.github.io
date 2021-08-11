@@ -107,11 +107,14 @@ define("./sw.js",['./workbox-600da2ae'], function (workbox) { 'use strict';
    */
 
   workbox.precacheAndRoute([{
+    "url": "404.html",
+    "revision": "7f157303ec1855a62588e54207c7af73"
+  }, {
     "url": "assets/About.1844b97f.js",
     "revision": "6e0b384ee980cddf285ed65cc10a1b08"
   }, {
-    "url": "assets/Columns.3b48248d.js",
-    "revision": "3c69793d6107f652300e96178264e224"
+    "url": "assets/Columns.2fd93aef.js",
+    "revision": "5b74e4eb9232c8f236e83c6551a382b5"
   }, {
     "url": "assets/Columns.c1c1b11e.css",
     "revision": "02e156c40572df6ab9df079c8c7d0cc0"
@@ -143,11 +146,11 @@ define("./sw.js",['./workbox-600da2ae'], function (workbox) { 'use strict';
     "url": "assets/file-save.fb4972a3.js",
     "revision": "0edc4d96e6143d6ef1bb2f7348c34a1b"
   }, {
-    "url": "assets/index.13d9bc98.css",
-    "revision": "c945a8ee5208a0e019a9058a3ba41c9b"
+    "url": "assets/index.3331ada0.js",
+    "revision": "663bc528442455bd1dd0aac8f529781b"
   }, {
-    "url": "assets/index.520af712.js",
-    "revision": "49565eb6825ddde81bcdb11062445546"
+    "url": "assets/index.f1b96afc.css",
+    "revision": "d1ef358e3821d79975e8336bf8a77d52"
   }, {
     "url": "assets/logo.9bfa92a2.png",
     "revision": "a142b0f39bf351a93098d585dfa69f86"
@@ -207,7 +210,7 @@ define("./sw.js",['./workbox-600da2ae'], function (workbox) { 'use strict';
     "revision": "420694e96d2049b190d1cd39bd326f51"
   }, {
     "url": "index.html",
-    "revision": "41a434aa3219c35b371f59dd31194451"
+    "revision": "cff1d690c2dc1dc08bb20b6122e713a4"
   }, {
     "url": "./img/icons/android-chrome-192x192.png",
     "revision": "877f33163730442ab9a70eaad8819999"
