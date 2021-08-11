@@ -210,7 +210,7 @@ define("./sw.js",['./workbox-600da2ae'], function (workbox) { 'use strict';
     "revision": "420694e96d2049b190d1cd39bd326f51"
   }, {
     "url": "index.html",
-    "revision": "cff1d690c2dc1dc08bb20b6122e713a4"
+    "revision": "9605b365b8e66bc2c4ee1700c2436458"
   }, {
     "url": "./img/icons/android-chrome-192x192.png",
     "revision": "877f33163730442ab9a70eaad8819999"
