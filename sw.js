@@ -110,20 +110,20 @@ define("./sw.js",['./workbox-600da2ae'], function (workbox) { 'use strict';
     "url": "404.html",
     "revision": "7f157303ec1855a62588e54207c7af73"
   }, {
-    "url": "assets/About.208f27d6.js",
-    "revision": "7db61edf148368afb5c240d0d96c6928"
+    "url": "assets/About.a0fbe5e1.js",
+    "revision": "a6b15fadf173ee0ffdb43e90017b4ceb"
+  }, {
+    "url": "assets/Columns.797a9c6d.js",
+    "revision": "51bfa550f7a41d8c21e54d96caf6f244"
   }, {
     "url": "assets/Columns.88f63874.css",
     "revision": "d15a4ee8ea65a6e5b055e39a77ce022b"
   }, {
-    "url": "assets/Columns.a9db61df.js",
-    "revision": "9911a8ab4cd6ce393c3b2947a3d51a2f"
+    "url": "assets/Data.643d7192.js",
+    "revision": "eda5ddb806fc218345a8a03925b66651"
   }, {
-    "url": "assets/Data.c86eff34.js",
-    "revision": "93d27cb81f7d62228e7073ba4f152175"
-  }, {
-    "url": "assets/Data.d666f7f1.css",
-    "revision": "205e46eebce7a7c1a1cfc212e8105b0f"
+    "url": "assets/Data.e6a0d63a.css",
+    "revision": "7563152daab2ee49f372acf3b7c342a0"
   }, {
     "url": "assets/directory-open.2b782ba5.js",
     "revision": "76626bd1c592233b112ec28163e6b54c"
@@ -152,11 +152,11 @@ define("./sw.js",['./workbox-600da2ae'], function (workbox) { 'use strict';
     "url": "assets/file-save.fb4972a3.js",
     "revision": "0edc4d96e6143d6ef1bb2f7348c34a1b"
   }, {
-    "url": "assets/index.47ab888a.css",
-    "revision": "e0a126e1ca1a7eeb1df7d0b33869f539"
+    "url": "assets/index.7cedf56a.js",
+    "revision": "7eea0ac3603469e890bc0dfdc7a070b2"
   }, {
-    "url": "assets/index.90f38542.js",
-    "revision": "388269e86d813108165d36be2f81e8fe"
+    "url": "assets/index.edcbf7ad.css",
+    "revision": "4aa6a353d0fc8e77287b2d4bc67a6168"
   }, {
     "url": "assets/logo.9bfa92a2.png",
     "revision": "a142b0f39bf351a93098d585dfa69f86"
@@ -164,11 +164,11 @@ define("./sw.js",['./workbox-600da2ae'], function (workbox) { 'use strict';
     "url": "assets/sql-wasm.wasm",
     "revision": "e96391fc594b5869546a3cdac4e76b10"
   }, {
-    "url": "assets/Tables.5730ebfa.js",
-    "revision": "8d7bad006eb81820502caaeaba18caad"
+    "url": "assets/Tables.60bf0d57.js",
+    "revision": "7c338659102de45859d3e30414cd74f2"
   }, {
-    "url": "assets/vendor.ee4bd58c.js",
-    "revision": "98b46019bb52353b97e1f12adce3b296"
+    "url": "assets/vendor.bae2ebbb.js",
+    "revision": "0eb442419ac5bffd91c6432567c91c9b"
   }, {
     "url": "favicon.ico",
     "revision": "24f1c4afd2c20a6a5f8811c466f122f6"
@@ -219,7 +219,7 @@ define("./sw.js",['./workbox-600da2ae'], function (workbox) { 'use strict';
     "revision": "420694e96d2049b190d1cd39bd326f51"
   }, {
     "url": "index.html",
-    "revision": "4d0c5751e9898eca6539276fa75c5633"
+    "revision": "570e66a8cb7d4827ed42c16c7eaf5d79"
   }, {
     "url": "./img/icons/android-chrome-192x192.png",
     "revision": "877f33163730442ab9a70eaad8819999"
